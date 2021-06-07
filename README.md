@@ -1,4 +1,4 @@
-# churn_analysis
+# Churn Analysis
 I did churn analysis for brand that have a huge customers.
 
 I got few results.
